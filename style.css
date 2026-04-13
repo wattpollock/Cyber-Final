@@ -1,0 +1,38 @@
+:root{
+    font-family: monospace;
+    background-image: url(https://www.solarwinds.com/wp-content/uploads/2018/05/iStock-606202164-1024x717.jpg);
+    text-align: center;
+
+}
+
+h1{
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+    margin: 40px auto;
+    width: 350px;
+}
+
+h3{
+    color: limegreen;
+    background-color: rgba(0,0,0,0.8);
+    margin: 40px auto;
+    width: 350px;
+}
+
+button{
+    color: black;
+    
+}
+
+body{
+    color: white;
+    
+}
+
+table{
+    margin: 40px auto;
+    background-color: rgba(0,0,0,0.8);
+    width: 350px;
+    
+}
+
